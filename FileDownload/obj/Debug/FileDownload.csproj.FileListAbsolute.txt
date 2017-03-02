@@ -1,0 +1,8 @@
+C:\Users\Sefa\Desktop\FileDownload\FileDownload\bin\Debug\FileDownload.exe.config
+C:\Users\Sefa\Desktop\FileDownload\FileDownload\bin\Debug\FileDownload.exe
+C:\Users\Sefa\Desktop\FileDownload\FileDownload\bin\Debug\FileDownload.pdb
+C:\Users\Sefa\Desktop\FileDownload\FileDownload\obj\Debug\FileDownload.Form1.resources
+C:\Users\Sefa\Desktop\FileDownload\FileDownload\obj\Debug\FileDownload.Properties.Resources.resources
+C:\Users\Sefa\Desktop\FileDownload\FileDownload\obj\Debug\FileDownload.csproj.GenerateResource.Cache
+C:\Users\Sefa\Desktop\FileDownload\FileDownload\obj\Debug\FileDownload.exe
+C:\Users\Sefa\Desktop\FileDownload\FileDownload\obj\Debug\FileDownload.pdb
